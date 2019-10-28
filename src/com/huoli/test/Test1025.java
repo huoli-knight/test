@@ -7,7 +7,7 @@ public class Test1025 {
 
     public static void main(String[] args) {
         Father father = new Son();
-        System.out.println("===================");
+        System.out.println("=================");
         Son son = new Son();
     }
 }
